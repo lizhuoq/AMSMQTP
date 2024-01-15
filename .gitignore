@@ -2,7 +2,6 @@ data
 checkpoints
 baseline
 discussion
-discussion_logs
 history
 logs
 test_results
@@ -92,3 +91,4 @@ utils/__pycache__/timefeatures.cpython-39.pyc
 utils/__pycache__/utils.cpython-39.pyc
 utils/__pycache__/utils.cpython-310.pyc
 utils/__pycache__/utils.cpython-311.pyc
+distribution_logs
