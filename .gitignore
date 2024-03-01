@@ -92,3 +92,13 @@ utils/__pycache__/utils.cpython-39.pyc
 utils/__pycache__/utils.cpython-310.pyc
 utils/__pycache__/utils.cpython-311.pyc
 distribution_logs
+src/plot/run_12.sh
+src/plot/run_14.sh
+src/plot/slurm-10879540.out
+src/plot/slurm-10879703.out
+src/plot/slurm-10879784.out
+src/plot/slurm-10879934.out
+src/plot/slurm-10880202.out
+notebooks/slurm-10092543.out
+src/plot/12_compare.py
+src/plot/14_compare_discussion.py
