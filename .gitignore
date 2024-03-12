@@ -102,3 +102,4 @@ src/plot/slurm-10880202.out
 notebooks/slurm-10092543.out
 src/plot/12_compare.py
 src/plot/14_compare_discussion.py
+src/plot/4_insitu_temporal.ipynb
